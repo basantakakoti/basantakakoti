@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 I'm Basanta
 
 <!--
 **basantakakoti/basantakakoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![BASANTA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basantakakoti&theme=default&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basantakakoti&layout=compact)](https://github.com/basantakakoti/github-readme-stats)
