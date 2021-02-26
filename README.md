@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 ![BASANTA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=basantakakoti&theme=default&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basantakakoti&layout=compact)](https://github.com/basantakakoti/github-readme-stats)
+
+#### Social Media Links
+[![twitter](https://raw.githubusercontent.com/basantakakoti/basantakakoti/main/twitter-fill.png)](http://www.twitter.com/basantakakoti)
+[![twitter](https://raw.githubusercontent.com/basantakakoti/basantakakoti/main/linkedin-box-fill.png)](https://www.linkedin.com/in/basantakakoti)
