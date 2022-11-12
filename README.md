@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basantakakoti&layout=compact)](https://github.com/basantakakoti/github-readme-stats)
 
 #### Social Media Links
-[![twitter](https://raw.githubusercontent.com/basantakakoti/basantakakoti/main/linkedin-box-fill.png)](https://www.linkedin.com/in/basantakakoti)
+
  
