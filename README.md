@@ -20,6 +20,20 @@ Here are some ideas to get you started:
 
 #### Social Media Links
 
+<!-- display the social media buttons in your README -->
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+
+<!-- links to social media icons -->
+
+[1.1]: 
+[2.1]: 
+[3.1]: 
+
+<!-- links to My social media accounts -->
+
 [1]: https://www.linkedin.com/in/basantakakoti
 [2]: https://twitter.com/bkakoti07
 [3]: https://www.facebook.com/bkakoti07
