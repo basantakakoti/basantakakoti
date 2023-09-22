@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 
 #### Social Media Links
 
- 
+https://www.linkedin.com/in/basantakakoti
+https://twitter.com/bkakoti07
+https://www.facebook.com/bkakoti07
