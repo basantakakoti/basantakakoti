@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <!-- links to social media icons -->
 
 [1.1]: 
-[2.1]: 
+[2.1]: https://raw.githubusercontent.com/basantakakoti/basantakakoti/256dda95570de64f1625c6ef596b87d0ac530f23/Icons/x-twitter.svg
 [3.1]: 
 [4.1]: https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200
 <!-- links to My social media accounts -->
