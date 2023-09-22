@@ -30,6 +30,20 @@ Here are some ideas to get you started:
 
 [![website][4.1]][4]
 
+<!-- display the social media buttons name in your README -->
+
+<!--
+
+[![linkedin][1.2]][1]
+
+[![twitter][2.2]][2]
+
+[![facebook][3.2]][3]
+
+[![website][4.2]][4]
+
+-->
+
 <!-- links to social media icons -->
 
 [1.1]: https://raw.githubusercontent.com/basantakakoti/basantakakoti/95f53b123644b4545b59e470e59059d607cb23c0/Icons/linkedin.svg
@@ -39,6 +53,18 @@ Here are some ideas to get you started:
 [3.1]: https://raw.githubusercontent.com/basantakakoti/basantakakoti/95f53b123644b4545b59e470e59059d607cb23c0/Icons/facebook.svg
 
 [4.1]: https://raw.githubusercontent.com/basantakakoti/basantakakoti/95f53b123644b4545b59e470e59059d607cb23c0/Icons/up-right-from-square.svg
+
+<!-- links to social media icons name -->
+
+<!--
+[1.2]: 
+
+[2.2]:
+
+[3.2]:
+
+[4.2]:
+-->
 
 <!-- links to My social media accounts -->
 
