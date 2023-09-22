@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 <!-- display the social media buttons in your README -->
 
-[![alt text][1.1]][1]
+[![linkedin][1.1]][1]
 
-[![alt text][2.1]][2]
+[![twitter][2.1]][2]
 
-[![alt text][3.1]][3]
+[![facebook][3.1]][3]
 
-[![alt text][4.1]][4]
+[![website][4.1]][4]
 
 <!-- links to social media icons -->
 
