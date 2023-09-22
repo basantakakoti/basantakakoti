@@ -25,15 +25,17 @@ Here are some ideas to get you started:
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
+[![alt text][4.1]][4]
 
 <!-- links to social media icons -->
 
 [1.1]: 
 [2.1]: 
 [3.1]: 
-
+[4.1]: https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200
 <!-- links to My social media accounts -->
 
 [1]: https://www.linkedin.com/in/basantakakoti
 [2]: https://twitter.com/bkakoti07
 [3]: https://www.facebook.com/bkakoti07
+[4]: https://www.scisdom.com
