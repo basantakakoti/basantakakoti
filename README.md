@@ -16,7 +16,7 @@
 
 <!-- links to social media icons -->
 
-[1.1]: https://raw.githubusercontent.com/basantakakoti/basantakakoti/95f53b123644b4545b59e470e59059d607cb23c0/Icons/linkedin.svg
+[1.1]: https://static.licdn.com/sc/h/413gphjmquu9edbn2negq413a
 
 [2.1]: https://bsky.app/static/favicon-32x32.png
 
