@@ -23,7 +23,7 @@
 
 [4.1]: https://static.xx.fbcdn.net/rsrc.php/yv/r/B8BxsscfVBr.ico
 
-[5.1]: https://raw.githubusercontent.com/basantakakoti/basantakakoti/95f53b123644b4545b59e470e59059d607cb23c0/Icons/up-right-from-square.svg
+[5.1]: https://abs.twimg.com/favicons/twitter.3.ico
 
 <!-- links to My social media accounts -->
 
