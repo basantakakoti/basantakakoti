@@ -20,7 +20,7 @@
 
 [2.1]: https://bsky.app/static/favicon-32x32.png
 
-[3.1]: https://raw.githubusercontent.com/basantakakoti/basantakakoti/3c2b8fc4c3b906408dcb5f3a17a935384914acb0/Icons/x-twitter.svg
+[3.1]: https://abs.twimg.com/favicons/twitter.3.ico 
 
 [4.1]: https://raw.githubusercontent.com/basantakakoti/basantakakoti/0ccbe37ca260945d01b719b94f5fa8b4c60ceb25/Icons/facebook.svg
 
