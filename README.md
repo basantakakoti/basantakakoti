@@ -16,7 +16,7 @@
 
 <!-- links to social media icons -->
 
-[1.1]: [https://static.licdn.com/sc/h/413gphjmquu9edbn2negq413a](https://static.licdn.com/sc/h/2if24wp7oqlodqdlgei1n1520)
+[1.1]: https://static.licdn.com/sc/h/2if24wp7oqlodqdlgei1n1520
 
 [2.1]: https://bsky.app/static/favicon-32x32.png
 
