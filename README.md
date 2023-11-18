@@ -17,7 +17,7 @@
 
 [1.1]: https://raw.githubusercontent.com/basantakakoti/basantakakoti/95f53b123644b4545b59e470e59059d607cb23c0/Icons/linkedin.svg
 
-[2.1]: https://bsky.app/static/favicon-16x16.png
+[2.1]: https://bsky.app/static/favicon-32x32.png
 
 [3.1]: https://abs.twimg.com/favicons/twitter.3.ico
 
