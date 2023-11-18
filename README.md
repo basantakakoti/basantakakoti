@@ -24,7 +24,7 @@
 
 [4.1]: https://static.xx.fbcdn.net/rsrc.php/yv/r/B8BxsscfVBr.ico
 
-[5.1]: https://raw.githubusercontent.com/basantakakoti/basantakakoti/c352ff9428dd10494b3a6b6ab798bfa0a925d820/Icons/up-right-from-square.svg
+[5.1]: https://raw.githubusercontent.com/basantakakoti/basantakakoti/da5c1b1cf0be8439f306b81d4ed1fea136e77e16/Icons/up-right-from-square.svg
 
 <!-- links to My social media accounts -->
 
