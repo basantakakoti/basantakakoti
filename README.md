@@ -22,7 +22,7 @@
 
 [3.1]: https://abs.twimg.com/favicons/twitter.3.ico
 
-[4.1]: https://static.xx.fbcdn.net/rsrc.php/yv/r/B8BxsscfVBr.ico
+[4.1]: https://raw.githubusercontent.com/basantakakoti/basantakakoti/0ccbe37ca260945d01b719b94f5fa8b4c60ceb25/Icons/facebook.svg
 
 [5.1]: https://raw.githubusercontent.com/basantakakoti/basantakakoti/da5c1b1cf0be8439f306b81d4ed1fea136e77e16/Icons/up-right-from-square.svg
 
