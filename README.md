@@ -9,9 +9,10 @@
 <!-- display the social media buttons in your README -->
 
 [![linkedin][1.1]][1] 
-[![twitter][2.1]][2] 
-[![facebook][3.1]][3] 
-[![website][4.1]][4]
+[![bluesky][2.1]][2] 
+[![twitter][3.1]][3] 
+[![facebook][4.1]][4] 
+[![website][5.1]][5]
 
 <!-- links to social media icons -->
 
