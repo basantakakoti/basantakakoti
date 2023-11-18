@@ -17,20 +17,24 @@
 
 [1.1]: https://raw.githubusercontent.com/basantakakoti/basantakakoti/95f53b123644b4545b59e470e59059d607cb23c0/Icons/linkedin.svg
 
-[2.1]: https://raw.githubusercontent.com/basantakakoti/basantakakoti/256dda95570de64f1625c6ef596b87d0ac530f23/Icons/x-twitter.svg
+[2.1]: https://bsky.app/static/favicon-32x32.png
 
-[3.1]: https://raw.githubusercontent.com/basantakakoti/basantakakoti/95f53b123644b4545b59e470e59059d607cb23c0/Icons/facebook.svg
+[3.1]: https://raw.githubusercontent.com/basantakakoti/basantakakoti/256dda95570de64f1625c6ef596b87d0ac530f23/Icons/x-twitter.svg
 
-[4.1]: https://raw.githubusercontent.com/basantakakoti/basantakakoti/95f53b123644b4545b59e470e59059d607cb23c0/Icons/up-right-from-square.svg
+[4.1]: https://raw.githubusercontent.com/basantakakoti/basantakakoti/95f53b123644b4545b59e470e59059d607cb23c0/Icons/facebook.svg
+
+[5.1]: https://raw.githubusercontent.com/basantakakoti/basantakakoti/95f53b123644b4545b59e470e59059d607cb23c0/Icons/up-right-from-square.svg
 
 <!-- links to My social media accounts -->
 
 [1]: https://www.linkedin.com/in/basantakakoti
 
-[2]: https://twitter.com/bkakoti07
+[2]: https://bsky.app/profile/basantakakoti.bsky.social
 
-[3]: https://www.facebook.com/bkakoti07
+[3]: https://twitter.com/bkakoti07
 
-[4]: https://www.scisdom.com
+[4]: https://www.facebook.com/bkakoti07
+
+[5]: https://www.scisdom.com
 
 
